@@ -14,7 +14,7 @@ The model is trained on 25,000 microscopy images across 5 classes and evaluated 
 
 ## Dataset
 
-**Source:** [Lung and Colon Cancer Histopathological Images](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images) — Kaggle (Andrew MVD)
+**Source:** [Lung and Colon Cancer Histopathological Images](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images) - Kaggle (Andrew MVD)
 
 | Class | Description |
 |---|---|
@@ -104,4 +104,4 @@ Given more time and compute, the following changes would likely improve performa
 ## Acknowledgements
 
 Dataset sourced from Kaggle, originally prepared by [Andrew MVD](https://www.kaggle.com/andrewmvd).  
-Academic project — Taylor's University, Bachelor of Computer Science (AI).
+Academic project : Taylor's University, Bachelor of Computer Science (AI).
